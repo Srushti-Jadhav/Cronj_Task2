@@ -1,0 +1,106 @@
+.header-bg{
+top: 0px;
+left: 0px;
+width: 1440px;
+height: 713px;
+background: transparent url("../img/Group 10790.png") 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbar-nav{
+top: 65px;
+left: 442px;
+width: 71px;
+height: 24px;
+text-align: left;
+font: normal normal medium 17px/33px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.logo{
+top: 52px;
+padding-left:150px;
+padding-right:100px;
+width: 135px;
+height:65px;
+background: transparent url("../img/Group 10330.png") 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.contact{
+top: 56px;
+
+width: 142px;
+height: 41px;
+background: transparent url("../img/Group 10331.png") 0% 0% no-repeat padding-box;
+opacity: 1;
+padding-left:150px;
+}
+.contact1{
+    padding-left:150px;
+    padding-right: 150px;
+}
+
+.navbar-nav{
+padding-left:150px;
+padding-right:150px;
+}
+.nav-item{
+    padding-left:50px;
+}
+
+.navbar{
+    padding-top:51.86px;
+    
+}
+.txt1{
+    top: 190px;
+padding-left:70px;
+width:750px;
+height: 68px;
+text-align: center;
+font: normal normal bold 49px/45px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+} 
+.txt2{
+    top: 283px;
+left: 307px;
+width: 826px;
+height: 57px;
+text-align: center;
+font: normal normal normal 19px/30px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+.txt3{
+ padding-top:70px;  
+padding-left: 300px;
+width: 221px;
+height: 39px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.txt{
+    padding-top:106.5px;
+    padding-left:307px;
+    padding-left:307px;
+    align-items: center;
+    text-align: center;
+}
+
+.img-div{
+padding-left: 109px;
+padding-top:100px; 
+}
+.img1{
+top: 497px;
+left: 109px;
+width: 1223px;
+height: 305px;
+background: transparent url("../img/Mockup 1.png") 0% 0% no-repeat padding-box;
+opacity: 1;
+}

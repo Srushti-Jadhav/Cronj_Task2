@@ -1,0 +1,106 @@
+.grid-container16 {
+    padding-left:80px;
+    padding-top: 100px;
+    display: grid;
+    width: 1000px;
+    grid-template-columns: auto auto auto auto auto;
+    -ms-layout-grid-line: none;
+    justify-items: center;
+    column-gap: 20px;
+    row-gap: 50px;
+  }
+  
+  .grid-item16 {
+    top: 25px;
+    font-size: 20px;
+    text-align: center;
+  }
+  .sec16-txt1 {
+    width: 239px;
+    height: 25px;
+    text-align: left;
+    font: normal normal normal 18px/35px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  .sec16-txt1-1 {
+    width: 239px;
+    height: 25px;
+    text-align: left;
+    font: normal normal normal 18px/35px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .sec16-txt2 {
+    top: 16455px;
+    left: 130px;
+    width: 231px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 600 20px/24px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  
+  .sec16-img1 {
+    width: 70px;
+    height: 70px;
+  }
+  #p {
+     padding: 300px;
+    padding-top: 30px;
+  }
+  .p{
+    padding-left:70px;
+  }
+  .sec16-txt3{
+    width: 224px;
+    height: 31px;
+    text-align: left;
+    font: normal normal 600 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  .sec16-txt4{
+    top: 12095px;
+    left: 947px;
+    width: 81px;
+    height: 25px;
+    text-align: left;
+    font: normal normal medium 18px/35px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 18px;
+    font-weight:500;
+  }
+  .sec16-txt5{
+    top: 12095px;
+    left: 1220px;
+    width:150px;
+    height: 25px;
+    text-align: left;
+    font: normal normal medium 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-weight:500;
+  }
+  .contact-10{
+    width: 210px;
+    height: 29px;
+    text-align: left;
+    font: normal normal medium 21px/35px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size:21px ;
+    font-weight:500;
+  }
+  

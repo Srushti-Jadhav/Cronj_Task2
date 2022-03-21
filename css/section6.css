@@ -1,0 +1,123 @@
+.sec6 {
+  left: 0px;
+  width: 1440px;
+  height: 866px;
+  background: #f8f9fd 0% 0% no-repeat padding-box;
+  border-radius: 9px;
+  opacity: 1;
+}
+.sec6-img1 {
+  top: 11848px;
+  padding-left:560.72px;
+  padding-top: 10px;
+  left: 582px;
+  width: 43px;
+  height: 43px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.sec6-table1 {
+  padding-left:560.72px;
+  padding-top:20px;
+}
+.sec6-txt1 {
+  top: 8374px;
+  left: 236px;
+  width: 805px;
+  height: 91px;
+  width: 262px;
+  height: 43px;
+  text-align: left;
+  font: normal normal 600 30px/39px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.sec6-txt2 {
+  width: 920px;
+  height: 50px;
+  width: 1108px;
+  height: 62px;
+  text-align: center;
+  font: normal normal normal 19px/35px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 0.7;
+}
+.sec6-txt2-1 {
+  padding-left: 200px;
+ padding-top: 20px;
+text-align: center;
+}
+
+.grid-container6 {
+  padding-left: 182px;
+  padding-top: 100px;
+  display: grid;
+  width: 1000px;
+  grid-template-columns: auto auto auto;
+  -ms-layout-grid-line: none;
+}
+
+.grid-item6 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.sec6-txt3 {
+  padding-left:60px;
+  top: 12181px;
+
+  width:260px;
+  height: 24px;
+
+  text-align: center;
+font: normal normal medium 18px/25px Poppins;
+letter-spacing: -0.29px;
+color: #0D3A8F;
+opacity: 1;
+}
+.sec6-txt3-3 {
+    padding-left:60px;
+    top: 12181px;
+  
+    width:300px;
+    height: 24px;
+  
+    text-align: center;
+  font: normal normal medium 18px/25px Poppins;
+  letter-spacing: -0.29px;
+  color: #0D3A8F;
+  opacity: 1;
+  }
+.sec6-txt4 {
+  padding-left: 00px;
+  top: 12233px;
+
+  width: 326px;
+height: 82px;
+text-align: center;
+font: normal normal normal 17px/29px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 0.7;
+}
+
+.grid-container6-1 {
+  padding-left: 250px;
+
+  padding-top: 100px;
+  display: grid;
+  width: 1000px;
+  grid-template-columns: 435px 435px;
+  -ms-layout-grid-line: none;
+  justify-items: center;
+  column-gap: 00px;
+}
+
+.grid-item6-1 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}

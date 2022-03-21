@@ -1,0 +1,42 @@
+.sec3-txt1{
+    top: 3953px;
+padding-left: 182px;
+padding-top:50px;
+width: 77px;
+height: 69px;
+background: transparent;
+}
+.sec3-txt2{
+    padding-left: 182px;
+    padding-top:60px;
+width: 840px;
+height: 110px;
+text-align: left;
+font: normal normal 600 40px/54px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.sec3-txt3{
+    padding-left: 182px;
+    padding-top:130px;
+width: 1048px;
+height: 99px;
+text-align: left;
+font: normal normal normal 19px/36px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 0.86;
+}
+.sec3-txt4{
+    
+left: -253px;
+width: 1947px;
+height: 717px;
+padding-top:150px;
+width: 1947px;
+height: 717px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+}
